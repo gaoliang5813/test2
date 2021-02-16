@@ -2,6 +2,6 @@
 
 int main(int argc, char *argv[])
 {
-   std::cout << "Hello CMake15!" << std::endl;
+   std::cout << "Hello CMake16!" << std::endl;
    return 0;
 }
